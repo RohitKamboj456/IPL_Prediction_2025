@@ -1,7 +1,7 @@
 # IPL Win Predictor
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Predictor-brightgreen)](https://ipl-match-predictor.streamlit.app/)
-[![GitHub Repository](https://img.shields.io/badge/GitHub%20Repo-IPL%20Win%20Predictor-green)](https://github.com/rajatrawal/ipl-win-predictor)
+[![GitHub Repository](https://img.shields.io/badge/GitHub%20Repo-IPL%20Win%20Predictor-green)](https://github.com/RohitKamboj456/IPL_Prediction_2025.git)
 [![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 [![Python](https://img.shields.io/badge/Python-3.9-blue)](https://www.python.org/)
@@ -17,7 +17,7 @@ Welcome to the "IPL Win Predictor" project! This machine learning model, built u
 The "IPL Win Predictor" leverages logistic regression to provide insights into the probability of a team winning an IPL match. This model analyzes various match features, team performance, and player statistics to offer real-time predictions.
 
 ## Project Preview
-![Capture](https://github.com/rajatrawal/ipl-win-predictor/assets/72153827/071a020f-0bf5-4872-904f-5f9a0e928fd1)
+![Capture](https://github.com/RohitKamboj456/IPL_Prediction_2025.git)
 
 
 ## Explore the Project
@@ -100,6 +100,6 @@ Explore the "IPL Win Predictor" and make data-driven predictions about IPL match
 
 ## Contribute
 
-If you'd like to contribute to this project or have suggestions for improvement, please feel free to submit issues or pull requests on [GitHub](https://github.com/rajatrawal/ipl-win-predictor).
+If you'd like to contribute to this project or have suggestions for improvement, please feel free to submit issues or pull requests on [GitHub](https://github.com/RohitKamboj456/IPL_Prediction_2025.git).
 
 Thank you for exploring the "IPL Win Predictor"! We hope this tool assists your IPL match predictions. 🏏🌟
